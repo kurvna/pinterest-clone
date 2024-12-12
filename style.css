@@ -110,12 +110,12 @@ header nav {
 }
 
 .imagenes{
-    columns: 6 240px;
+    columns: 6 260px;
     margin: auto;
 }
 
 .card-image{
-    position: relative;
+    position:relative;
     padding: 6px;
 }
 
@@ -135,11 +135,11 @@ header nav {
 }
 .button{
     position: absolute;
-    left: 55%;
+    left: 50%;
     top: 5%;
-    padding: 13px 15px;
+    padding: 12px 15px;
     background-color: #e60023;
-    border-radius: 30px;
+    border-radius: 25px;
     border: none;
     visibility: hidden;
 }
@@ -153,7 +153,7 @@ header nav {
 
 .oculto1{
     position: absolute;
-    left: 60%;
+    left: 50%;
     bottom: 20px;
     background-color: white;
     font-size: 30px;
@@ -167,7 +167,7 @@ header nav {
 
 .oculto2{
     position: absolute;
-    left: 78%;
+    left: 68%;
     bottom: 20px;
     background-color: white;
     font-size: 30px;
